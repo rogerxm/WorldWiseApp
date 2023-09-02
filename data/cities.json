@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Miami",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-08-28T21:19:29.878Z",
+      "notes": "Nice trip 😍",
+      "position": {
+        "lat": "25.761961871960587",
+        "lng": "-80.19580578101707"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-29T18:27:07.602Z",
+      "notes": "sasadj",
+      "position": {
+        "lat": "48.83355182430887",
+        "lng": "2.321814595897913"
+      },
+      "id": 98443200
+    }
+  ]
+}
